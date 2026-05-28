@@ -1,0 +1,10 @@
+{
+  "name": "lph-6",
+  "description": "Erstellt LPH 6 Vergabe-Vorbereitungsberichte mit Leistungsverzeichnis-Struktur",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marcel Gutthann",
+    "email": "info@gutthann-hiw-architekten.de"
+  },
+  "homepage": "https://github.com/Marcelgutthann/gutthann-lph-6"
+}
