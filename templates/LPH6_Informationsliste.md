@@ -5,7 +5,7 @@
 | Feldgruppe | Herkunft aus Projektanalyse |
 |---|---|
 | `Ausschreibungsstand.xlsx` | Konsistent in (Projekt-Nr.), (Projekt-Nr.), (Projekt-Nr.), (Projekt-Nr.), (Projekt-Nr.), (Projekt-Nr.) — Standardformat je `13 Doku/Doku LPH 6/` |
-| CPV-Codes | 3657 Postareal Gauting — `6_LP6_VDV/CPV-Codes.pdf` |
+| CPV-Codes | Referenzprojekt (Quartier) — `6_LP6_VDV/CPV-Codes.pdf` |
 | Gewerkstruktur | Referenz-Projekt B (Sporthalle) — `06 Gewerk/` mit Nummerierung 04, 05, 07, 22, 29 |
 | Kostenanschlag DIN 276 | HOAI § 34 + Standardarchitektur-Praxis |
 
